@@ -3,6 +3,7 @@
   <a href="https://github.com/oieanderson">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oieanderson&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oieanderson&layout=compact&langs_count=7&theme=react"/>
+  <img align="right" alt="anderson-pic" height="170" style="border-radius:100px;" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Anderson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,8 +13,6 @@
   <img align="center" alt="Anderson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Anderson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Anderson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <!–
-  <img align="right" alt="anderson-pic" height="150" style="border-radius:50px;" src="link-da-imagem">
 </div>
   
   ##
