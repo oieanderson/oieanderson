@@ -19,7 +19,7 @@
   ##
  
 <div> 
-  <a href="tiktok.com/oieanderson" target="_blank">
+  <a href="https://www.tiktok.com/@oieanderson" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank">
   </a>
   <a href="https://instagram.com/oieanderson" target="_blank">
