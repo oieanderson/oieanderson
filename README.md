@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/oieanderson">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oieanderson&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oieanderson&layout=compact&langs_count=7&theme=react"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini/&layout=compact&langs_count=7&theme=react"/>
   <img align="right" alt="anderson-pic" height="170" style="border-radius:100px;" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif">
 </div>
 <div style="display: inline_block"><br>
